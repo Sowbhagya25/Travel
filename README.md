@@ -9,6 +9,8 @@ Industry : Lifestyle
 
 Project Title : TravelWorld
 
+Azure Deployment: https://witty-hill-080b2bd10.1.azurestaticapps.net
+
 Problem Statement/Opportunity : The purpose of this study was to identify and evaluate the marketing strategies being used by the Travel and Tourism Program in order to help them  & become more effective in attracting students. This application is developed to provide the best traveling services for the customers. I have developed a travel and tour world system to provide a search platform where a tourist can find their tour places according to their choices.
 
 
