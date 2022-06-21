@@ -9,9 +9,10 @@ Industry : Lifestyle
 
 Project Title : Travel & Tourism
 
-Problem Statement/Opportunity : This application is developed to provide best travelling services for the customers. I have developed travel and tour management system to provide a search platform where a tourist can find their tour places according to their choices. Build a website that have: Home Page, Services Page, About Us page,Login page,Register page,Contact Us page.
+Problem Statement/Opportunity : The purpose of this study was to identify and evaluate the marketing strategies being used by the Travel and Tourism Program in order to help them  & become more effective in attracting students. This application is developed to provide the best traveling services for the customers. I have developed a travel and tour world system to provide a search platform where a tourist can find their tour places according to their choices.
 
-Project Description : Tourism can be considered as most favorite pass time when people get free time. Several travel organizations are available on the web. The people or the tourist select their own Travel Package according to their personal interest. Main Objective of this system is to provide Online Registration, Tour Package Information, Tour Booking and Searching Facility for Customer and provide good Packages to Customers. If any customer as to enquire about the package then they can get instant reply by asking their enquiry they will be contacted immediately through their given mail and phone no for the package booking.It is a 24 x 7 service availble to the touristers.
+
+Project Description : Travel & Tourism is the largest service industry in India. It provides heritage, cultural, medical, business, and sports tourism. Tourism can be considered as a favorite hobby as when they travel their mind relaxes. Several travel organizations are available on the web. The people or the tourist select their own Travel Package according to their personal interests. The main objective of this system is to provide Online Registration, Tour Package Information, Tour Booking and Searching facilities for Customers and provide good Packages to Customers. If any customer as to enquire about the package then they can get an instant reply by asking their enquiry they will be contacted immediately through their given mail and phone no for the package booking.
 
 Primary Azure Technology :  Azure Bot Service, Web, Static Web Apps
 
